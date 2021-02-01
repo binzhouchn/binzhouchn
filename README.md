@@ -1,6 +1,6 @@
 ### Hi there, I'm ZhouBin - aka [发送小信号][website] 👋
 
-### I'm a AI Engineer at tpl
+### I'm an AI Engineer at tpl
 - 🔭 I’m currently learning everything
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🥅 2021 Goals: Contribute more to Open Source and Research projects
@@ -9,8 +9,6 @@
 
 [<img align="left" alt="https://binzhouchn.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-
-<br />
 
 ### Languages and Tools:
 
@@ -27,7 +25,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
----
 
 <img align="left" alt="发送小信号's Github Stats" src="https://github-readme-stats.vercel.app/api?username=binzhouchn&show_icons=true&hide_border=true" />
 
