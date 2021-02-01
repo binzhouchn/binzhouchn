@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=binzhouchn&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ### Hi there, I'm ZhouBin - aka [发送小信号][website] 👋
 
 ### I'm an AI Engineer at tpl
@@ -25,9 +27,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> .
 
-### Github Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=binzhouchn&show_icons=true&hide_border=true)
 
 <img align="left" alt="发送小信号's Github Stats" src="https://github-readme-stats.vercel.app/api?username=binzhouchn&show_icons=true&hide_border=true" />
 
