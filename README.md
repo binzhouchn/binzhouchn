@@ -27,6 +27,8 @@
 
 ### Github Stats
 
+![stats](https://github-readme-stats.vercel.app/api?username=binzhouchn&show_icons=true&hide_border=true)
+
 <img align="left" alt="发送小信号's Github Stats" src="https://github-readme-stats.vercel.app/api?username=binzhouchn&show_icons=true&hide_border=true" />
 
 [website]: https://binzhouchn.github.io/
