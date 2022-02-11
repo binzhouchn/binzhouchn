@@ -5,7 +5,7 @@
 ### I'm an AI Engineer at tpl
 - 🔭 I’m currently learning everything
 - 👯 I’m looking to collaborate with other researchers and creators
-- 🥅 2021 Goals: Contribute more to Open Source and Research projects
+- 🥅 2022 Goals: Contribute more to Open Source and Research projects
 
 ### Connect with me
 
